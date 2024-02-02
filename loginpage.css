@@ -1,0 +1,40 @@
+.signup{
+
+  
+    display: flex;
+   justify-content: center;
+}
+.sign{
+    text-align: center;
+
+}
+.down{
+    text-align: center;
+}
+.submitbutton{
+    height: 1cm;
+    width: 3cm;
+    background-color: #FFD1E3;
+    border-radius: 20px;
+    color: #392467;
+}
+
+.td{
+    border-radius: 30px;
+     width: 5cm;
+     height: 1cm;
+}
+.loginbutton{
+    width: 3cm;
+    height: 1cm;
+    border-radius: 50px;
+    margin: 0.5cm;
+    background-color: #FFD1E3;
+    color: #392467;
+}
+.table{
+    color:  #392467;
+}
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

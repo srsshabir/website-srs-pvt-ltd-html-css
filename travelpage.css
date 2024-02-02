@@ -1,0 +1,143 @@
+
+.trav{
+   color: #0B60B0;
+    text-align: center;
+}
+/* CAROUSEL STARTS */
+.carousel{
+
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+/* CARDS STARTS */
+.cards{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+    color: black;
+}
+   
+.img{
+    width: 100%;
+    height: 250px;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+.card1{
+    background-color: #40A2D8;
+    border: 1px solid black;
+    height: 15cm;
+    width: 10cm;
+    box-shadow:  2px 4px #2e2828;
+    border-radius: 20px;
+}
+
+.card2{
+    background-color: #40A2D8;
+    border: 1px solid black;
+    height: 15cm;
+    width: 10cm;
+    box-shadow:  2px 4px #2e2828;
+    border-radius: 20px;
+}
+
+.card3{
+    background-color: #40A2D8;
+    border: 1px solid black;
+    height: 15cm;
+    width: 10cm;
+    box-shadow:  2px 4px #2e2828;
+    border-radius: 20px;
+}
+
+
+.cardbutton{
+     color: blanchedalmond;
+     background-color: #0B60B0;
+     width: 3cm;
+     height: 1cm;
+     border-radius: 30px;
+     
+}
+.cardbutton:hover{
+    background-color: aquamarine;
+    color: black;
+}
+.card1:hover{
+    box-shadow: 4px 8px;
+}
+.card2:hover{
+    box-shadow: 4px 8px;
+}
+.card3:hover{
+    box-shadow: 4px 8px;
+}
+
+/* ABOUT STARTS */
+
+
+.aboutus{
+    text-align: center;
+    color: #0B60B0;
+     
+}
+.aboutpara{
+    font-size: medium;
+    font-style: oblique;
+    text-align: justify;
+    display: inline-block;
+    
+    width: 90%;
+    justify-content: center;
+    
+}
+/* CONTACT STARTS */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.contact-form {
+    max-width: 400px;
+    margin: 0 auto;
+    color: #0B60B0;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input, .form-group textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.form-group textarea {
+    resize: vertical; 
+}
+
+.submit-btn {
+    background-color: #0B60B0;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.hr{
+    color: #0B60B0;
+    height: 4px;
+    
+    
+}
+/*  */
